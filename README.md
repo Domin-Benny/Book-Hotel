@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
     Please before you run the code make sure you have the following insatlled and configured:
         `NodeJs
@@ -187,3 +188,7 @@ Refer to the Node.js documentation for more support.
 =======
 # news
 >>>>>>> a5f287c (20:13)
+=======
+# Hotel-Booking
+This is a site you could book a hotel room from
+>>>>>>> 68e523b1189cbb09e3f9a3006f6938cba3096a55
